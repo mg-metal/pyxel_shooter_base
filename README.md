@@ -1,1 +1,1 @@
-# pyxel_shooter_base
+# Pyxel シューティングゲームのベース  
